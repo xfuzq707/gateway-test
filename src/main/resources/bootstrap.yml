@@ -1,0 +1,8 @@
+#### 配置中心 ###################
+spring:
+  #服务名称
+  application:
+    name: gateway-test-1
+        
+server:
+  port: 8888
